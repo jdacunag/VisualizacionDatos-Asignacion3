@@ -1,0 +1,4 @@
+metrica,modelo,referencia,nombre_referencia
+Precision@10,0.110,0.086,Solo recuperación
+Recall@10,0.566,0.455,Solo recuperación
+NDCG@10,0.462,0.362,Solo recuperación
